@@ -11,9 +11,9 @@ tasks in different files or at the top of the program, so
 the main program logic can be simple and easy to change if 
 needed.
 
-Some benefits of refactoring are clean clode, maintenance, and 
+Some benefits of refactoring are clean code, maintenance, and 
 peer extension. Refactoring will help keep your code concise 
-and well organized. Having clean code makes any edits much 
+and well organized. Having clean code makes edits much 
 easier to make if needed and can also help in the debugging 
 process. Similarly, any maintenance in the code will be much 
 easier. Whether it is done by you, the creator, or someone else 
