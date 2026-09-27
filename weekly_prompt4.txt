@@ -1,0 +1,12 @@
+Describe refactoring and it's benefits.
+
+Refactoring is the process of improving code by cleaning it 
+up and organizing it into functions and classes. A good indicator 
+that you may need to refactor is if you have large blocks of 
+code doing multiple different tasks. For example, calculating 
+information, storing information, and returning a sorted 
+version of that information could all be given their own 
+function or a method in a class. This helps either sort 
+tasks in different files or at the top of the program, so 
+the main program logic can be simple and easy to change if 
+needed.
